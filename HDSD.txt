@@ -1,0 +1,12 @@
+HDSD BẢN VIP:
+Lệnh cho người mới: cd /sdcard/&&pkg upgrade&&pkg i php&&pkg i unzip&&pkg i git&&git clone https://github.com/nongvannguyen/NongVanNguyen&&cd NongVanNguyen&&php vip.php 
+Sau khi chạy lệnh trên những lần sau chỉ cần nhập lệnh: cd /sdcard/NongVanNguyen&&php vip.php
+Một số máy có thể sẽ không tương thích với lệnh trên hãy sử dụng lệnh này
+Lệnh cho người mới: cd /storage/emulated/0/&&pkg upgrade&&pkg i php&&pkg i unzip&&pkg i git&&git clone https://github.com/nongvannguyen/NongVanNguyen&&cd NongVanNguyen&&php vip.php 
+Sau khi chạy lệnh trên những lần sau chỉ cần nhập lệnh: cd /storage/emulated/0/NongVanNguyen&&php vip.php
+HDSD BẢN MIỄN PHÍ:
+Lệnh cho người mới: cd /sdcard/&&pkg upgrade&&pkg i php&&pkg i unzip&&pkg i git&&git clone https://github.com/nongvannguyen/NongVanNguyen&&cd NongVanNguyen&&php free.php 
+Sau khi chạy lệnh trên những lần sau chỉ cần nhập lệnh: cd /sdcard/NongVanNguyen&&php free.php
+Một số máy có thể sẽ không tương thích với lệnh trên hãy sử dụng lệnh này
+Lệnh cho người mới: cd /storage/emulated/0/&&pkg upgrade&&pkg i php&&pkg i unzip&&pkg i git&&git clone https://github.com/nongvannguyen/NongVanNguyen&&cd NongVanNguyen&&php free.php 
+Sau khi chạy lệnh trên những lần sau chỉ cần nhập lệnh: cd /storage/emulated/0/NongVanNguyen&&php free.php
